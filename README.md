@@ -44,14 +44,14 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   
 </p>
-<p align='Center'>
+<p align='left'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true" width="450"></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&theme=highcontrast" width="240" height="176"></a>
 </p>
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=anjugunakar" alt="anjugunakar" />
+<img src="https://github-profile-trophy.vercel.app/?username=anjugunakar&theme=highcontrast" alt="anjugunakar" />
 </a>
 </p>
 
