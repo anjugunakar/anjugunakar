@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **anjugunakar/anjugunakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&layout=compact)
 
-<h1 align='center'>
+<h1 align='Left'>
   Hi there 👋  I'm   <a href="https://gunakarchennamalla.netlify.app/">
   Anju Gunakar Chennamalla </a> 👨‍💻
 </h1>
@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 - 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.
 - 🌱  I’m currently exploring HyperScience and other OCR Tools. 
+- 💬 Ask me about Robotic Process Automation
+- 📫 Reach me out at [Linkedin](https://www.linkedin.com/in/anjugunakar/)
+- ⚡ Fun fact: I know Nothing 😛, There is always alot to learn from the world!
 
 
 <p align='left'>
@@ -44,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 <p align='center'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&show_icons=true&count_private=true&theme=dark" width="450"></a>
-  <a><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="240" height="175"></a>
+  <a><img src="https://giphy.com/gifs/spongebob-season-4-spongebob-squarepants-l1KtYG8BndKBmWrM4" width="240" height="175"></a>
 </p>
 <h2 align='center'>
   I Believe true Skill can be gained by helping other and sharing our Knowledge !
