@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   
 </p>
-<p align='center'>
+<p align='Left'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true" width="450"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&theme=highcontrast&show_icons=true" width="240" height="177"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&theme=highcontrast&show_icons=true" width="240" height="176"></a>
 </p>
 <h2 align='center'>
   I Believe true Skill can be gained by helping other and sharing our Knowledge !
