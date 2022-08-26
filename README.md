@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <p align='Right'>
   A Certified Robotice Process Automation Developer from India.
 </p>
-
+<p align='Right'>
 - 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.
 - 🌱  I’m currently exploring HyperScience and other OCR Tools. 
 - 💬 Ask me about Robotic Process Automation
 - 📫 Reach me out at [Linkedin](https://www.linkedin.com/in/anjugunakar/)
 - ⚡ Fun fact: I know Nothing 😛, There is always alot to learn from the world!
-
+</p>
 
 <p align='Right'>
  
