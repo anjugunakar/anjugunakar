@@ -48,6 +48,13 @@ Here are some ideas to get you started:
   <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true" width="450"></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&theme=highcontrast" width="240" height="176"></a>
 </p>
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=anjugunakar" alt="anjugunakar" />
+</a>
+</p>
+
 <h2 align='left'>
   I Believe true Skill can be gained by helping other and sharing our Knowledge !
 </h2>
