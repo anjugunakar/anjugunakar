@@ -1,9 +1,9 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Robotic+Process+Automation+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Robotic+Process+Automation+Developer.++++++++++)](https://git.io/typing-svg)
 
-<h2 align="Left">✨Hey there 👋, I'm Anju Gunakar Chennamalla ✨</h2>
+<h2 align="Left">✨Hey, I'm Anju Gunakar Chennamalla ✨</h2>
 
 
 <a href="https://gunakarchennamalla.netlify.app/" target="blank">Portfolio: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/anjugunakar" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=anjugunakar&column=9&theme=gruvbox&no-frame=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anjugunakar&theme=neon-palenight&hide_border=true)
 
