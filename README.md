@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  Hey!  I'm  ✨ <a href="https://gunakarchennamalla.netlify.app/">
   Anju Gunakar Chennamalla </a> ✨
 </h1>
-<p align='Right'>
+<p align='left'>
   A Certified Robotice Process Automation Developer from India.
 </p>
 
