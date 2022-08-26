@@ -8,7 +8,7 @@
 
 <p align='left'>
  
-  <a href="https://www.linkedin.com/in/anjugunakar/">
+  <a href="https://gunakarchennamalla.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=appveyor&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/anjugunakar/">
