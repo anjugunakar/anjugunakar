@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 <p align='center'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&show_icons=true&count_private=true&theme=dark" width="450"></a>
-  <a><img src="https://giphy.com/gifs/spongebob-season-4-spongebob-squarepants-l1KtYG8BndKBmWrM4" width="240" height="175"></a>
+  <a><img src="https://media.giphy.com/media/l1KtYG8BndKBmWrM4/giphy.gif" width="240" height="175"></a>
 </p>
 <h2 align='center'>
   I Believe true Skill can be gained by helping other and sharing our Knowledge !
