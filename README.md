@@ -6,7 +6,7 @@
 <h2 align="Left">✨Hey there 👋, I'm Anju Gunakar Chennamalla ✨</h2>
 
 
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/anjugunakar" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://gunakarchennamalla.netlify.app/" target="blank">Portfolio: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/anjugunakar" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
 
 - 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.
