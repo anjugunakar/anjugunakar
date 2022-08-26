@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&layout=compact)
+![Github stats] ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&layout=compact)
 
 <h1 align='Left'>
   Hi there 👋  I'm   <a href="https://gunakarchennamalla.netlify.app/">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
 </p>
 <p align='center'>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true" width="450"></a>
   <a><img src="https://media.giphy.com/media/l1KtYG8BndKBmWrM4/giphy.gif" width="240" height="175"></a>
 </p>
 <h2 align='center'>
