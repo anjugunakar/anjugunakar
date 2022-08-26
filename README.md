@@ -1,18 +1,26 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Robotic+Process+Automation+developer.++++++++++)](https://git.io/typing-svg)
 
-<h2 align="center">Hi there 👋, I'm anjugunakar!</h2>
+<h2 align="Left">✨Hey there 👋, I'm Anju Gunakar Chennamalla ✨</h2>
 
 
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/anjugunakar" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=anjugunakar&column=9&theme=gruvbox&no-frame=true"/>
+
+- 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.
+- 🌱  I’m currently exploring HyperScience and other OCR Tools.
+- 💬 Ask me about Robotic Process Automation.
+- 📫 Reach me out at [Linkedin](https://www.linkedin.com/in/anjugunakar/)
+- ⚡ Fun fact: I know Nothing 😛, There is always alot to learn from the world!
+
+
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjugunakar&show_icons=true&theme=tokyonight)
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=anjugunakar&column=9&theme=gruvbox&no-frame=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&layout=compact)
 
