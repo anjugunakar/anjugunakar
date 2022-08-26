@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 <h1 align='Left'>
-  Hi there 👋  I'm   <a href="https://gunakarchennamalla.netlify.app/">
-  Anju Gunakar Chennamalla </a> 👨‍💻
+ Hey!  I'm  ✨ <a href="https://gunakarchennamalla.netlify.app/">
+  Anju Gunakar Chennamalla </a> ✨
 </h1>
-<p align='center'>
-  Certified Robotice Process Automation Developer from India
+<p align='Left'>
+  A Certified Robotice Process Automation Developer from India.
 </p>
 
 - 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.
