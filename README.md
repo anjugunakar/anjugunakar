@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align='Right'>
+<h1 align='left'>
  Hey!  I'm  ✨ <a href="https://gunakarchennamalla.netlify.app/">
   Anju Gunakar Chennamalla </a> ✨
 </h1>
 <p align='Right'>
   A Certified Robotice Process Automation Developer from India.
 </p>
-<p align='Right'><br>
-- 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.<br>
-- 🌱  I’m currently exploring HyperScience and other OCR Tools. <br>
-- 💬 Ask me about Robotic Process Automation.<br>
-- 📫 Reach me out at [Linkedin](https://www.linkedin.com/in/anjugunakar/)<br>
-- ⚡ Fun fact: I know Nothing 😛, There is always alot to learn from the world!<br>
-</p>
 
-<p align='Right'>
+- 🔭  I’m currently working on Developing Various Automations using UiPath, Automation Anywhere 360 and Power Automate.
+- 🌱  I’m currently exploring HyperScience and other OCR Tools.
+- 💬 Ask me about Robotic Process Automation.
+- 📫 Reach me out at [Linkedin](https://www.linkedin.com/in/anjugunakar/)
+- ⚡ Fun fact: I know Nothing 😛, There is always alot to learn from the world!
+
+
+<p align='left'>
  
   <a href="https://www.linkedin.com/in/anjugunakar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   
 </p>
-<p align='Right'>
+<p align='Center'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=anjugunakar&theme=highcontrast&show_icons=true&count_private=true" width="450"></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjugunakar&theme=highcontrast" width="240" height="176"></a>
 </p>
-<h2 align='Right'>
+<h2 align='left'>
   I Believe true Skill can be gained by helping other and sharing our Knowledge !
 </h2>
